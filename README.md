@@ -48,6 +48,9 @@ A reset button restores the system to its initial state.
 ![IMG_2875](https://github.com/user-attachments/assets/cda2bee9-474c-4aaa-aeda-c34d600f5701)
 ![IMG_2876](https://github.com/user-attachments/assets/b6f069da-131b-40c4-ba51-714ec6643c74)
 
+## Code
+📂 [Full code here](Smart_Keypad_Door_Lock_System.ino)
+
 ## Project Videos
 
 Video 1: Correct Password Entry  
